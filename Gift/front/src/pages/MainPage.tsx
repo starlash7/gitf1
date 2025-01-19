@@ -20,7 +20,7 @@ const MainPage = () => {
                 data={mockData.mainPage.new}
             />
             <img
-                src="/ETH.png"
+                src="/images/9.png"
                 alt="ETH Banner"
                 className="w-full rounded-lg cursor-pointer hover:opacity-90 transition-opacity"
                 onClick={handleBannerClick}

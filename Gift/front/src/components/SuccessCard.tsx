@@ -14,7 +14,7 @@ const FundingCard = ({
             {/* Image & Progress */}
             <div className="relative">
                 <img
-                    src="/12.PNG"
+                    src="/images/12.png"
                     alt="keyboard"
                     className="w-full h-[202px] object-cover bg-black"
                 />

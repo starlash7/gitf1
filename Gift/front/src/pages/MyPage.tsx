@@ -21,7 +21,7 @@ const MyPage = () => {
             daysLeft: "0",
             progress: 100,
             status: 'success',
-            imageUrl: "/12.PNG",
+            imageUrl: "/images/12.png",
         },
         {
             id: '12',
@@ -32,7 +32,7 @@ const MyPage = () => {
             daysLeft: "0",
             progress: 50,
             status: 'failed',
-            imageUrl: "/1.png",
+            imageUrl: "/images/5.png",
         },
         {
             id: '13',
@@ -43,7 +43,7 @@ const MyPage = () => {
             daysLeft: "6",
             progress: 37,
             status: 'ongoing',
-            imageUrl: "/15.png",
+            imageUrl: "/images/15.png",
         }
     ];
 
@@ -58,7 +58,7 @@ const MyPage = () => {
             daysLeft: "0",
             progress: 100,
             status: 'ongoing',
-            imageUrl: "/6.PNG",
+            imageUrl: "/images/6.png",
         },
         {
             id: '15',
@@ -68,7 +68,8 @@ const MyPage = () => {
             deadline: "2024.01.05",
             daysLeft: "0",
             progress: 40,
-            status: 'failed'
+            status: 'failed',
+            imageUrl: "/images/5.png",
         },
     ];
 

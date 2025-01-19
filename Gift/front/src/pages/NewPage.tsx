@@ -17,7 +17,7 @@ const NewPage = () => {
             deadline: "2024.03.01",
             daysLeft: "30",
             progress: 20,
-            imageUrl: "/15.png",
+            imageUrl: "/images/15.png",
         },
         {
             id: '7',
@@ -27,7 +27,7 @@ const NewPage = () => {
             deadline: "2024.03.05",
             daysLeft: "34",
             progress: 25,
-            imageUrl: "/1.png",
+            imageUrl: "/images/1.png",
         },
         {
             id: '8',
@@ -37,7 +37,7 @@ const NewPage = () => {
             deadline: "2024.03.10",
             daysLeft: "39",
             progress: 30,
-            imageUrl: "/14.png",
+            imageUrl: "/images/14.png",
         },
         {
             id: '9',
@@ -47,7 +47,7 @@ const NewPage = () => {
             deadline: "2024.03.15",
             daysLeft: "44",
             progress: 25,
-            imageUrl: "/8.png",
+            imageUrl: "/images/8.png",
         },
 
     ];

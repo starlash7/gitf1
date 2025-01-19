@@ -18,7 +18,7 @@ const MySuccessPage = () => {
         currentAmount: '0.498',
         deadline: '2025.01.01 18:00',
         description: '',
-        imageUrl: "/12.PNG",
+        imageUrl: "/images/12.png",
         participants: [
             { address: '0x4B1...', amount: '0.05ETH' },
             { address: '0x1C5....', amount: '0.1ETH' },
@@ -120,7 +120,7 @@ const MySuccessPage = () => {
                     {/* 이미지 섹션 */}
                     <div className="w-[400px] h-[400px] bg-gray-100 rounded-lg overflow-hidden">
                         <img
-                            src="/12.PNG"
+                            src="/images/12.png"
                             alt="펀딩 이미지"
                             className="w-full h-full object-cover"
                         />

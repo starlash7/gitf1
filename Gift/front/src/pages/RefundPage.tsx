@@ -112,7 +112,7 @@ const RefundPage = () => {
                     {/* 이미지 섹션 */}
                     <div className="w-[400px] h-[400px] bg-gray-100 rounded-lg overflow-hidden">
                         <img
-                            src="/Keyboard.png"
+                            src="/images/Keyboard.png"
                             alt="펀딩 이미지"
                             className="w-full h-full object-cover"
                         />

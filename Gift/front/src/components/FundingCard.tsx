@@ -8,7 +8,7 @@ interface FundingCardProps {
     deadline: string;
     daysLeft: string;
     progress: number;
-    imageUrl: string;  
+    imageUrl: string;
     onClick?: () => void;
 }
 
@@ -31,7 +31,7 @@ const FundingCard: React.FC<FundingCardProps> = ({
             {/* Image & Progress */}
             <div className="relative">
                 <img
-                    src={imageUrl || "/Logo.PNG"}
+                    src={imageUrl || "/Logo.png"}
                     alt={title}
                     className="w-full h-[202px] object-cover bg-black"
                 />

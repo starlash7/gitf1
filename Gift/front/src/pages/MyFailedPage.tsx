@@ -21,6 +21,7 @@ const MyFailedPage = () => {
         currentAmount: '0.05',
         deadline: '2025.01.15 18:00',
         description: '빼빼로데이 선물 주세요',
+        imageUrl: "/images/5.png",
         participants: [
             { address: '0x1C02...', amount: '0.02ETH' },
             { address: '0x8AA1...', amount: '0.03ETH' }
@@ -157,7 +158,7 @@ const MyFailedPage = () => {
                     {/* 이미지 섹션 */}
                     <div className="w-[400px] h-[400px] bg-gray-100 rounded-lg overflow-hidden">
                         <img
-                            src="/Logo.PNG"
+                            src="/images/5.png"
                             alt="펀딩 이미지"
                             className="w-full h-full object-cover"
                         />

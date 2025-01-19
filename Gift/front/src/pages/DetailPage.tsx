@@ -206,7 +206,7 @@ const DetailPage = () => {
                     {/* 이미지 섹션 */}
                     <div className="w-[400px] h-[400px] bg-gray-100 rounded-lg overflow-hidden">
                         <img
-                            src="/ex.PNG"
+                            src="/images/ex.png"
                             alt="펀딩 이미지"
                             className="w-full h-full object-cover"
                         />

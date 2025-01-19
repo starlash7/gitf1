@@ -18,7 +18,7 @@ const SuccessPage = () => {
         currentAmount: '0.6',
         deadline: '2025.01. 19 18:00',
         description: '화이트데이 선물 주세요.',
-        imageUrl: "/6.PNG",
+        imageUrl: "/images/6.png",
         participants: [
             { address: '0x1C1B...', amount: '0.3ETH' },
             { address: '0x4A2c...', amount: '0.1ETH' },
@@ -115,7 +115,7 @@ const SuccessPage = () => {
                     {/* 이미지 섹션 */}
                     <div className="w-[400px] h-[400px] bg-gray-100 rounded-lg overflow-hidden">
                         <img
-                            src="/6.PNG"
+                            src="/images/6.png"
                             alt="펀딩 이미지"
                             className="w-full h-full object-cover"
                         />

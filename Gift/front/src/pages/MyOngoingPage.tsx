@@ -29,7 +29,7 @@ const MyOngoingPage = () => {
         currentAmount: '0.3',
         deadline: '2025.01.25 18:00',
         description: '새해 선물 주세요',
-        imageUrl: "/15.png",
+        imageUrl: "/images/15.png",
         participants: [
             { address: '0x1BF...', amount: '0.1ETH' },
             { address: '0x0DG...', amount: '0.2ETH' }
@@ -213,7 +213,7 @@ const MyOngoingPage = () => {
                 <div className="grid grid-cols-[400px,1fr,300px] gap-8">
                     <div className="w-[400px] h-[400px] bg-gray-100 rounded-lg overflow-hidden">
                         <img
-                            src="/15.PNG"
+                            src="/images/15.png"
                             alt="펀딩 이미지"
                             className="w-full h-full object-cover"
                         />

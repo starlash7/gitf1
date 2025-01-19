@@ -21,7 +21,7 @@ const FailedPage = () => {
         currentAmount: '0.2',
         deadline: '2025.01.12 18:00',
         description: '취업했어요~!',
-        imageUrl: "/1.png",
+        imageUrl: "/images/5.png",
         participants: [
             { address: '0x4AC1...', amount: '0.1ETH' },
             { address: '0X1FF2...', amount: '0.1ETH' }
@@ -159,7 +159,7 @@ const FailedPage = () => {
                     {/* 이미지 섹션 */}
                     <div className="w-[400px] h-[400px] bg-gray-100 rounded-lg overflow-hidden">
                         <img
-                            src="/Logo.PNG"
+                            src="/images/5.png"
                             alt="펀딩 이미지"
                             className="w-full h-full object-cover"
                         />
