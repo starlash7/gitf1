@@ -18,7 +18,7 @@ const MySuccessPage = () => {
         currentAmount: '0.498',
         deadline: '2025.01.01 18:00',
         description: '',
-        imageUrl: "/public/12.PNG",
+        imageUrl: "/12.PNG",
         participants: [
             { address: '0x4B1...', amount: '0.05ETH' },
             { address: '0x1C5....', amount: '0.1ETH' },

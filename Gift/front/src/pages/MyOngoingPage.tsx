@@ -29,7 +29,7 @@ const MyOngoingPage = () => {
         currentAmount: '0.3',
         deadline: '2025.01.25 18:00',
         description: '새해 선물 주세요',
-        imageUrl: "/public/15.png",
+        imageUrl: "/15.png",
         participants: [
             { address: '0x1BF...', amount: '0.1ETH' },
             { address: '0x0DG...', amount: '0.2ETH' }

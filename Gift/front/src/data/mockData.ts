@@ -9,7 +9,7 @@ export const mockData = {
         deadline: "2024.01.25",
         daysLeft: "5",
         progress: 90,
-        imageUrl: "/public/18.png",
+        imageUrl: "/18.png",
         walletAddress: "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
         description:
           "소중한 친구의 생일을 맞아 특별한 선물을 준비하고 있습니다.",
@@ -44,7 +44,7 @@ export const mockData = {
         deadline: "2024.01.27",
         daysLeft: "7",
         progress: 81,
-        imageUrl: "/public/17.png",
+        imageUrl: "/17.png",
         walletAddress: "0x892d35Cc6634C0532925a3b844Bc454e4438f55e",
         description: "오랜 친구의 결혼을 축하하는 마음을 담아 준비했습니다.",
         participants: [
@@ -68,7 +68,7 @@ export const mockData = {
         deadline: "2024.01.24",
         daysLeft: "4",
         progress: 95,
-        imageUrl: "/public/13.png",
+        imageUrl: "/13.png",
         walletAddress: "0x632d35Cc6634C0532925a3b844Bc454e4438f66e",
         description: "대학교 졸업을 앞둔 동생을 위한 선물입니다.",
         participants: [
@@ -92,7 +92,7 @@ export const mockData = {
         deadline: "2024.01.30",
         daysLeft: "10",
         progress: 97,
-        imageUrl: "/public/10.png",
+        imageUrl: "/10.png",
         walletAddress: "0x562d35Cc6634C0532925a3b844Bc454e4438f77e",
         description: "첫 직장에 합격한 친구를 위한 축하 선물입니다.",
         participants: [
@@ -112,7 +112,7 @@ export const mockData = {
         deadline: "2024.02.10",
         daysLeft: "20",
         progress: 86,
-        imageUrl: "/public/7.png",
+        imageUrl: "/7.png",
         walletAddress: "0x472d35Cc6634C0532925a3b844Bc454e4438f88e",
         description: "대학교 입학을 앞둔 동생의 새로운 시작을 응원합니다.",
         participants: [
@@ -134,7 +134,7 @@ export const mockData = {
         deadline: "2024.03.01",
         daysLeft: "30",
         progress: 25,
-        imageUrl: "/public/15.png",
+        imageUrl: "/15.png",
         walletAddress: "0x912d35Cc6634C0532925a3b844Bc454e4438fCCe",
         description: "새해를 맞아 특별한 선물을 준비하려고 합니다.",
         participants: [
@@ -153,7 +153,7 @@ export const mockData = {
         deadline: "2024.03.05",
         daysLeft: "34",
         progress: 29,
-        imageUrl: "/public/1.png",
+        imageUrl: "/1.png",
         walletAddress: "0x822d35Cc6634C0532925a3b844Bc454e4438fDDe",
         description: "첫 독립을 시작한 친구를 위한 선물입니다.",
         participants: [
@@ -172,7 +172,7 @@ export const mockData = {
         deadline: "2024.03.10",
         daysLeft: "39",
         progress: 35,
-        imageUrl: "/public/14.png",
+        imageUrl: "/14.png",
         walletAddress: "0x732d35Cc6634C0532925a3b844Bc454e4438fEEe",
         description: "수술을 앞둔 친구의 빠른 쾌유를 빕니다.",
         participants: [
@@ -191,7 +191,7 @@ export const mockData = {
         deadline: "2024.03.15",
         daysLeft: "44",
         progress: 26,
-        imageUrl: "/public/3.png",
+        imageUrl: "/3.png",
         walletAddress: "0x642d35Cc6634C0532925a3b844Bc454e4438fFFe",
         description: "새로운 도전을 시작하는 친구를 응원합니다.",
         participants: [
@@ -210,7 +210,7 @@ export const mockData = {
         deadline: "2024.03.20",
         daysLeft: "49",
         progress: 38,
-        imageUrl: "/public/8.png",
+        imageUrl: "/8.png",
         walletAddress: "0x552d35Cc6634C0532925a3b844Bc454e4438fGGe",
         description: "부모님의 뜻깊은 생신을 맞아 준비했습니다.",
         participants: [

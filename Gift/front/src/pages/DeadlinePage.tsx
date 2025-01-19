@@ -16,7 +16,7 @@ const DeadlinePage = () => {
             deadline: "2024.01.25",
             daysLeft: "5",
             progress: 90,
-            imageUrl: "/public/1.png",
+            imageUrl: "/1.png",
         },
         {
             id: '2',
@@ -26,7 +26,7 @@ const DeadlinePage = () => {
             deadline: "2024.01.27",
             daysLeft: "5",
             progress: 89,
-            imageUrl: "/public/17.PNG",
+            imageUrl: "/17.PNG",
         },
         {
             id: "3",
@@ -36,7 +36,7 @@ const DeadlinePage = () => {
             deadline: "2024.01.24",
             daysLeft: "7",
             progress: 93,
-            imageUrl: "/public/13.png",
+            imageUrl: "/13.png",
         },
         {
             id: "4",
@@ -46,7 +46,7 @@ const DeadlinePage = () => {
             deadline: "2024.01.30",
             daysLeft: "9",
             progress: 95,
-            imageUrl: "/public/10.png",
+            imageUrl: "/10.png",
         },
         {
             id: "5",
@@ -56,7 +56,7 @@ const DeadlinePage = () => {
             deadline: "2024.02.10",
             daysLeft: "11",
             progress: 85,
-            imageUrl: "/public/7.png",
+            imageUrl: "/7.png",
         },
 
     ];

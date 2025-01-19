@@ -18,7 +18,7 @@ const SuccessPage = () => {
         currentAmount: '0.6',
         deadline: '2025.01. 19 18:00',
         description: '화이트데이 선물 주세요.',
-        imageUrl: "/public/6.PNG",
+        imageUrl: "/6.PNG",
         participants: [
             { address: '0x1C1B...', amount: '0.3ETH' },
             { address: '0x4A2c...', amount: '0.1ETH' },
