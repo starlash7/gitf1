@@ -8,7 +8,7 @@ interface FundingCardProps {
     deadline: string;
     daysLeft: string;
     progress: number;
-    imageUrl: string;  // img를 string으로 수정
+    imageUrl: string;  
     onClick?: () => void;
 }
 

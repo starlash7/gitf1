@@ -14,7 +14,7 @@ interface FundingData {
     deadline: string;
     daysLeft: string;
     progress: number;
-    imageUrl: string;  // imageUrl 추가
+    imageUrl: string;  
     walletAddress: string;
     description: string;
     participants: {
